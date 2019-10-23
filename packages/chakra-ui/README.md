@@ -20,12 +20,12 @@ https://chakra-ui.com
 ## Installing Chakra UI
 
 ⚡️Chakra UI is made up of multiple components and tools which you can import
-one by one. All you need to do is install the `@chakra-ui/core` package:
+one by one. All you need to do is install the `@chakra-ui/core` package and it's peer dependencies:
 
 ```sh
-$ yarn add @chakra-ui/core
+$ yarn add @chakra-ui/core @emotion/core @emotion/styled emotion-theming
 # or
-$ npm install --save @chakra-ui/core
+$ npm install --save @chakra-ui/core @emotion/core @emotion/styled emotion-theming
 ```
 
 # Getting set up
